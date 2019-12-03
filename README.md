@@ -1,4 +1,3 @@
-Currency-Exchange
 An application to show currency exchange rates from bank of Lithuania.
 
 Download this application, open cmd, compile using javac, then run it. You will be shown a menu. Type menu option (1-4).
